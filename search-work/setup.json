@@ -1,0 +1,18 @@
+{
+ "choice": "basic",
+ "tools": {
+  "serpapi": {
+   "state": "later",
+   "date": "2026-11-18"
+  },
+  "search_console": {
+   "state": "later",
+   "date": "2026-11-18",
+   "come_back": "2026-11-25"
+  },
+  "website_access": {
+   "state": "skipped",
+   "date": "2026-11-18"
+  }
+ }
+}

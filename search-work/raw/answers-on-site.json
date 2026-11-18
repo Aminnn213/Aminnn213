@@ -1,0 +1,747 @@
+{
+ "questions": [
+  {
+   "q": "אמן ילדים ליום הולדת מומלץ",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+     "heading": "משחקים ליום הולדת: 7 רעיונות שמפעילים את כל הילדים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "איך הופכים את ילד יום ההולדת לגיבור בלי להביך אותו?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "heading": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7?"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "title": "פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים",
+     "score": 1.0,
+     "words": 353,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/birthday/",
+     "title": "הפעלה ליום הולדת לילדים | אמן ילדים פול אל תיפול",
+     "score": 0.92,
+     "words": 725,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%93%d7%91%d7%a8%d7%95-%d7%90%d7%99%d7%aa%d7%99/",
+     "title": "הזמנת אמן ילדים ליום הולדת ומופע | דברו עם פול אל תיפול",
+     "score": 0.85,
+     "words": 152,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מפעיל ליום הולדת לילדים מומלץ במרכז",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+     "heading": "משחקים ליום הולדת: 7 רעיונות שמפעילים את כל הילדים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "איך הופכים את ילד יום ההולדת לגיבור בלי להביך אותו?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "heading": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7?"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/birthday-for-mixed-ages/",
+     "title": "יום הולדת לילדים בגילים שונים: רעיונות לתכנון | פול אל תיפול",
+     "score": 1.0,
+     "words": 804,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "title": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7 | פול אל תיפול",
+     "score": 0.86,
+     "words": 343,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-4/",
+     "title": "הפעלה ליום הולדת גיל 4: מדריך לחגיגה מוצלחת | פול אל תיפול",
+     "score": 0.86,
+     "words": 811,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "כמה עולה הפעלה ליום הולדת לילדים",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+     "heading": "משחקים ליום הולדת: 7 רעיונות שמפעילים את כל הילדים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "heading": "הפעלה ליום הולדת בבית או בחוץ: מה צריך להכין?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "איך הופכים את ילד יום ההולדת לגיבור בלי להביך אותו?"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "title": "פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים",
+     "score": 1.0,
+     "words": 353,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/birthday/",
+     "title": "הפעלה ליום הולדת לילדים | אמן ילדים פול אל תיפול",
+     "score": 1.0,
+     "words": 725,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "title": "הפעלה ליום הולדת בבית או בחוץ | פול אל תיפול",
+     "score": 1.0,
+     "words": 484,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "כמה עולה אמן ילדים ליום הולדת",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+     "heading": "משחקים ליום הולדת: 7 רעיונות שמפעילים את כל הילדים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "איך הופכים את ילד יום ההולדת לגיבור בלי להביך אותו?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "heading": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7?"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "title": "פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים",
+     "score": 1.0,
+     "words": 353,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/birthday/",
+     "title": "הפעלה ליום הולדת לילדים | אמן ילדים פול אל תיפול",
+     "score": 0.92,
+     "words": 725,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%93%d7%91%d7%a8%d7%95-%d7%90%d7%99%d7%aa%d7%99/",
+     "title": "הזמנת אמן ילדים ליום הולדת ומופע | דברו עם פול אל תיפול",
+     "score": 0.85,
+     "words": 152,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "הפעלה ליום הולדת גיל 4",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "heading": "הפעלה ליום הולדת בבית או בחוץ: מה צריך להכין?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "heading": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%92%d7%9f/",
+     "heading": "יום הולדת בגן: כך מתכננים הפעלה קצרה, שמחה ומוצלחת"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-4/",
+     "title": "הפעלה ליום הולדת גיל 4: מדריך לחגיגה מוצלחת | פול אל תיפול",
+     "score": 1.0,
+     "words": 811,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/birthday-for-mixed-ages/",
+     "title": "יום הולדת לילדים בגילים שונים: רעיונות לתכנון | פול אל תיפול",
+     "score": 1.0,
+     "words": 804,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/first-grade-birthday-party/",
+     "title": "יום הולדת לכיתה א׳: רעיונות ותכנון הפעלה | פול אל תיפול",
+     "score": 1.0,
+     "words": 747,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "הפעלה ליום הולדת גיל 5 בבית",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "heading": "הפעלה ליום הולדת בבית או בחוץ: מה צריך להכין?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "heading": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%92%d7%9f/",
+     "heading": "יום הולדת בגן: כך מתכננים הפעלה קצרה, שמחה ומוצלחת"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/author/polaltipolgmail-com/",
+     "title": "polaltipol@gmail.com, מחבר ב-polaltipol.co.il",
+     "score": 1.0,
+     "words": 692,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/page/2/",
+     "title": "ארכיון ימי הולדת לילדים - עמוד 2 מתוך 3 - polaltipol.co.il",
+     "score": 1.0,
+     "words": 779,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/page/3/",
+     "title": "ארכיון ימי הולדת לילדים - עמוד 3 מתוך 3 - polaltipol.co.il",
+     "score": 1.0,
+     "words": 391,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "הפעלת גיבורי על ליום הולדת",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "heading": "הפעלה ליום הולדת בבית או בחוץ: מה צריך להכין?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%91%d7%95%d7%a8%d7%99-%d7%a2%d7%9c/",
+     "heading": "יום הולדת גיבורי על: כך בונים הרפתקה שהילדים לא שוכחים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%92%d7%9f/",
+     "heading": "יום הולדת בגן: כך מתכננים הפעלה קצרה, שמחה ומוצלחת"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/birthday/",
+     "title": "הפעלה ליום הולדת לילדים | אמן ילדים פול אל תיפול",
+     "score": 1.0,
+     "words": 725,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%91%d7%95%d7%a8%d7%99-%d7%a2%d7%9c/",
+     "title": "יום הולדת גיבורי על לילדים | הפעלה עם פול אל תיפול",
+     "score": 1.0,
+     "words": 323,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/page/3/",
+     "title": "ארכיון ימי הולדת לילדים - עמוד 3 מתוך 3 - polaltipol.co.il",
+     "score": 1.0,
+     "words": 391,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "הפעלת נסיכות ליום הולדת",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "heading": "הפעלה ליום הולדת בבית או בחוץ: מה צריך להכין?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%a0%d7%a1%d7%99%d7%9b%d7%95%d7%aa/",
+     "heading": "יום הולדת נסיכות: רעיונות לחגיגה קסומה עם כל החברות והחברים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%92%d7%9f/",
+     "heading": "יום הולדת בגן: כך מתכננים הפעלה קצרה, שמחה ומוצלחת"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/birthday/",
+     "title": "הפעלה ליום הולדת לילדים | אמן ילדים פול אל תיפול",
+     "score": 1.0,
+     "words": 725,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%a0%d7%a1%d7%99%d7%9b%d7%95%d7%aa/",
+     "title": "יום הולדת נסיכות לילדים | הפעלה קסומה עם פול אל תיפול",
+     "score": 1.0,
+     "words": 323,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/page/3/",
+     "title": "ארכיון ימי הולדת לילדים - עמוד 3 מתוך 3 - polaltipol.co.il",
+     "score": 1.0,
+     "words": 391,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "איך לבחור מפעיל ליום הולדת",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+     "heading": "משחקים ליום הולדת: 7 רעיונות שמפעילים את כל הילדים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "heading": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-4/",
+     "heading": "איך לבחור מפעיל ליום הולדת גיל 4?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%97%d7%a6%d7%a8/",
+     "heading": "למה לבחור יום הולדת בחצר?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-%D7%9C%D7%99%D7%95%D7%9D-%D7%94%D7%95%D7%9C%D7%93%D7%AA/",
+     "heading": "משחקים ליום הולדת: 7 רעיונות שמפעילים את כל הילדים"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+     "title": "איך לבחור מפעיל ליום הולדת לילדים בגיל 4–7 | פול אל תיפול",
+     "score": 1.0,
+     "words": 343,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-4/",
+     "title": "הפעלה ליום הולדת גיל 4: מדריך לחגיגה מוצלחת | פול אל תיפול",
+     "score": 1.0,
+     "words": 811,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/page/3/",
+     "title": "ארכיון ימי הולדת לילדים - עמוד 3 מתוך 3 - polaltipol.co.il",
+     "score": 1.0,
+     "words": 391,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מה כוללת הפעלה ליום הולדת לילדים",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+     "heading": "משחקים ליום הולדת: 7 רעיונות שמפעילים את כל הילדים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "heading": "הפעלה ליום הולדת בבית או בחוץ: מה צריך להכין?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "הפעלה ליום הולדת לילדים ביישנים: כך יוצרים חגיגה שבה כולם מרגישים שייכים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "heading": "איך הופכים את ילד יום ההולדת לגיבור בלי להביך אותו?"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/birthday/",
+     "title": "הפעלה ליום הולדת לילדים | אמן ילדים פול אל תיפול",
+     "score": 1.0,
+     "words": 725,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/",
+     "title": "פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים",
+     "score": 0.86,
+     "words": 353,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%92%d7%9f/",
+     "title": "יום הולדת בגן: רעיונות להפעלה קצרה ושמחה | פול אל תיפול",
+     "score": 0.86,
+     "words": 618,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מופע ילדים למתנ\"ס",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "heading": "מופע ילדים לאירועי עירייה וקהילה: כך יוצרים חוויה לכל המשפחה"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "heading": "מה שונה במופע ילדים לקהל עירוני?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%9e%d7%9c%d7%95%d7%9f/",
+     "heading": "מופע ילדים למלון: כך משדרגים חופשה משפחתית"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a7%d7%a0%d7%99%d7%95%d7%9f/",
+     "heading": "מופע ילדים לקניון: איך יוצרים חוויה שמושכת משפחות"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show/",
+     "title": "מופע חנוכה לילדים 2026 למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 392,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/purim-show/",
+     "title": "מופע פורים לילדים למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 386,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מופע ילדים לקניון",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "heading": "מופע ילדים לאירועי עירייה וקהילה: כך יוצרים חוויה לכל המשפחה"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "heading": "מה שונה במופע ילדים לקהל עירוני?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%9e%d7%9c%d7%95%d7%9f/",
+     "heading": "מופע ילדים למלון: כך משדרגים חופשה משפחתית"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a7%d7%a0%d7%99%d7%95%d7%9f/",
+     "heading": "מופע ילדים לקניון: איך יוצרים חוויה שמושכת משפחות"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+     "title": "מופעי ילדים למתנ״סים, קניונים ומלונות | פול אל תיפול",
+     "score": 1.0,
+     "words": 229,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a7%d7%a0%d7%99%d7%95%d7%9f/",
+     "title": "מופע ילדים לקניון | פעילות למשפחות עם פול אל תיפול",
+     "score": 1.0,
+     "words": 340,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show/",
+     "title": "מופע חנוכה לילדים 2026 למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 392,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מופע ילדים לחנוכה",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "heading": "העולם של פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "heading": "מופע ילדים לאירועי עירייה וקהילה: כך יוצרים חוויה לכל המשפחה"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "heading": "מה שונה במופע ילדים לקהל עירוני?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%9e%d7%9c%d7%95%d7%9f/",
+     "heading": "מופע ילדים למלון: כך משדרגים חופשה משפחתית"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a7%d7%a0%d7%99%d7%95%d7%9f/",
+     "heading": "מופע ילדים לקניון: איך יוצרים חוויה שמושכת משפחות"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show-for-library/",
+     "title": "מופע חנוכה לילדים בספרייה: מדריך לבחירה | פול אל תיפול",
+     "score": 1.0,
+     "words": 604,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show/",
+     "title": "מופע חנוכה לילדים 2026 למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 392,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מופע פורים לילדים למתנ\"סים",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/purim-kids-show-event-planning/",
+     "heading": "מופע פורים לילדים: איך משלבים תחפושות, במה וקהל?"
+    },
+    {
+     "url": "https://polaltipol.co.il/purim-show/",
+     "heading": "מופע פורים לילדים עם פול אל תיפול"
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "heading": "מופע פורים לילדים: איך משלבים תחפושות, במה וקהל?"
+    },
+    {
+     "url": "https://polaltipol.co.il/author/polaltipolgmail-com/",
+     "heading": "מופע פורים לילדים: איך משלבים תחפושות, במה וקהל?"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/purim-show/",
+     "title": "מופע פורים לילדים למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 386,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/author/polaltipolgmail-com/",
+     "title": "polaltipol@gmail.com, מחבר ב-polaltipol.co.il",
+     "score": 1.0,
+     "words": 692,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מופע ילדים לבית מלון",
+   "matching_headings": [
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "heading": "מה שונה במופע ילדים לקהל עירוני?"
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%9e%d7%9c%d7%95%d7%9f/",
+     "heading": "מופע ילדים למלון: כך משדרגים חופשה משפחתית"
+    },
+    {
+     "url": "https://polaltipol.co.il/children-show-for-school/",
+     "heading": "מופע ילדים לבית ספר: מדריך לתכנון אירוע לתלמידים"
+    },
+    {
+     "url": "https://polaltipol.co.il/children-show-for-school/",
+     "heading": "איך בודקים התאמה של מופע ילדים לבית ספר?"
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "heading": "מופע ילדים לבית ספר: מדריך לתכנון אירוע לתלמידים"
+    }
+   ],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/children-show-for-school/",
+     "title": "מופע ילדים לבית ספר: מדריך לצוות ולוועד | פול אל תיפול",
+     "score": 1.0,
+     "words": 802,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/author/polaltipolgmail-com/",
+     "title": "polaltipol@gmail.com, מחבר ב-polaltipol.co.il",
+     "score": 1.0,
+     "words": 692,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "q": "מופע ילדים עם מסר חינוכי",
+   "matching_headings": [],
+   "best_pages": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "title": "פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים",
+     "score": 0.75,
+     "words": 353,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "title": "מופע ילדים לאירועי עירייה וקהילה | פול אל תיפול",
+     "score": 0.75,
+     "words": 676,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show/",
+     "title": "מופע חנוכה לילדים 2026 למתנ״סים וקניונים | פול אל תיפול",
+     "score": 0.75,
+     "words": 392,
+     "in_heading_or_address": true
+    }
+   ]
+  }
+ ]
+}

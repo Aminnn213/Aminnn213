@@ -1,0 +1,82 @@
+{
+ "names_on_site": [
+  "polaltipol@gmail.com",
+  "פול אל תיפול",
+  "polaltipol.co.il"
+ ],
+ "phones_on_site": [
+  "0555029390",
+  "0549462209",
+  "0778036545",
+  "0777299934"
+ ],
+ "addresses_on_site": [
+  "דרך פשוטה לבנות יום הולדת גיל 5"
+ ],
+ "note": "More than one phone number appears on the site. Check which one is the main line.",
+ "listings": [
+  {
+   "site": "b144.co.il",
+   "url": "https://www.b144.co.il/b144_sip/401D0D1A4370655D4F14051646/",
+   "problems": [
+    "name 'פול אל תיפול' differs from your site",
+    "address 'מרום גולן 17, ראשון לציון' does not match your site"
+   ]
+  },
+  {
+   "site": "b144.co.il",
+   "url": "https://www.b144.co.il/b144_sip/401D0D1A4370655D4D11061B41/",
+   "problems": [
+    "phone 052-677-2242 does not match your site",
+    "name 'פול אל תיפול' differs from your site",
+    "address 'תל אביב יפו' does not match your site"
+   ]
+  },
+  {
+   "site": "d.co.il",
+   "url": "https://www.d.co.il/h-c3350-e0-p0-l0-city5000/",
+   "problems": [
+    "phone 054-9462209 does not match your site",
+    "name 'פול אל תיפול' differs from your site",
+    "address 'תל אביב' does not match your site"
+   ]
+  },
+  {
+   "site": "easy.co.il",
+   "url": "https://easy.co.il/page/26795434",
+   "problems": [
+    "name 'פול אל תיפול' differs from your site",
+    "address 'הכיכר הדרומית, אילת' does not match your site"
+   ]
+  },
+  {
+   "site": "mesibonet.co.il",
+   "url": "https://www.mesibonet.co.il/32798-%D7%A4%D7%95%D7%9C-%D7%90%D7%9C-%D7%AA%D7%99%D7%A4%D7%95%D7%9C",
+   "problems": [
+    "phone 0549462209 does not match your site",
+    "name 'פול אל תיפול' differs from your site"
+   ]
+  },
+  {
+   "site": "karamel.co.il",
+   "url": "https://www.karamel.co.il/%D7%A4%D7%95%D7%9C_%D7%90%D7%9C_%D7%AA%D7%99%D7%A4%D7%95%D7%9C.asp",
+   "problems": [
+    "name 'פול אל תיפול' differs from your site"
+   ]
+  },
+  {
+   "site": "instagram.com",
+   "url": "https://www.instagram.com/pol_al_tipol/",
+   "problems": [
+    "name 'פול אל תיפול' differs from your site"
+   ]
+  },
+  {
+   "site": "facebook.com",
+   "url": "https://www.facebook.com/polaltipol/",
+   "problems": [
+    "name 'פול אל תיפול' differs from your site"
+   ]
+  }
+ ]
+}

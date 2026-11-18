@@ -1,0 +1,17 @@
+{
+ "strategy": "mobile",
+ "pages": [
+  {
+   "url": "https://polaltipol.co.il/",
+   "error": "PageSpeed answered with status 429. Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'. Without a key Google limits how often this runs; a free key fixes that."
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday/",
+   "error": "PageSpeed answered with status 429. Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'. Without a key Google limits how often this runs; a free key fixes that."
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+   "error": "PageSpeed answered with status 429. Quota exceeded for quota metric 'Queries' and limit 'Queries per day' of service 'pagespeedonline.googleapis.com' for consumer 'project_number:583797351490'. Without a key Google limits how often this runs; a free key fixes that."
+  }
+ ]
+}

@@ -1,0 +1,1063 @@
+{
+ "pages_with_structured_data": [
+  {
+   "url": "https://polaltipol.co.il/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "ImageObject",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a1%d7%a8%d7%98%d7%95%d7%a0%d7%99%d7%9d/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a9%d7%99%d7%a8%d7%99%d7%9d/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%92%d7%9c%d7%a8%d7%99%d7%99%d7%aa-%d7%94%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%90%d7%95%d7%aa/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%93%d7%91%d7%a8%d7%95-%d7%90%d7%99%d7%aa%d7%99/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%92%d7%96%d7%99%d7%9f-%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%9e%d7%9c%d7%95%d7%9f/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%90%d7%99%d7%9a-%d7%9c%d7%91%d7%97%d7%95%d7%a8-%d7%9e%d7%a4%d7%a2%d7%99%d7%9c-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%91%d7%95%d7%a8%d7%99-%d7%a2%d7%9c/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%a0%d7%a1%d7%99%d7%9b%d7%95%d7%aa/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9b%d7%9a-%d7%91%d7%95%d7%a0%d7%99%d7%9d-%d7%9c%d7%95%d7%97-%d7%96%d7%9e%d7%a0%d7%99%d7%9d-%d7%a8%d7%92%d7%95/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a7%d7%a0%d7%99%d7%95%d7%9f/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%92%d7%9f/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-4/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-8-%d7%91%d7%91%d7%99%d7%aa/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%a1%d7%99%d7%91%d7%aa-%d7%a4%d7%95%d7%9c-%d7%9e%d7%95%d7%9f-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-12-%d7%91%d7%91%d7%99%d7%aa/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a1%d7%95%d7%9b%d7%95%d7%aa/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%97%d7%a6%d7%a8/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%a4%d7%99%d7%a8%d7%90%d7%98%d7%99%d7%9d-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%92%d7%99%d7%9c-5-%d7%91%d7%91%d7%99%d7%aa/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a8%d7%a9%d7%99%d7%9e%d7%aa-%d7%a6%d7%99%d7%95%d7%93-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%97%d7%95%d7%a8%d7%a3-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/joint-birthday-for-two-children/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday-for-mixed-ages/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday-residents-club-room/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/first-grade-birthday-party/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/hanukkah-show-community-center/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/children-show-for-school/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday-entertainer-quote/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/cooperative-birthday-games/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/purim-kids-show-event-planning/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/hanukkah-show-for-library/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday-age-3-with-parents/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/hanukkah-show/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "ImageObject",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/purim-show/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "ImageObject",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/polbday/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "ImageObject",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+   "types": [
+    "BreadcrumbList",
+    "CollectionPage",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+   "types": [
+    "BreadcrumbList",
+    "CollectionPage",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/author/polaltipolgmail-com/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "ProfilePage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%D7%9E%D7%95%D7%A4%D7%A2%D7%99%D7%9D/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/%D7%9E%D7%A9%D7%97%D7%A7%D7%99%D7%9D-%D7%9C%D7%99%D7%95%D7%9D-%D7%94%D7%95%D7%9C%D7%93%D7%AA/",
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/page/2/",
+   "types": [
+    "BreadcrumbList",
+    "CollectionPage",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/author/polaltipolgmail-com/page/2/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "ProfilePage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/category/%d7%99%d7%9e%d7%99-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/page/3/",
+   "types": [
+    "BreadcrumbList",
+    "CollectionPage",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/author/polaltipolgmail-com/page/3/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "ProfilePage",
+    "WebSite"
+   ]
+  },
+  {
+   "url": "https://polaltipol.co.il/author/polaltipolgmail-com/page/4/",
+   "types": [
+    "BreadcrumbList",
+    "EntertainmentBusiness",
+    "Organization",
+    "Person",
+    "ProfilePage",
+    "WebSite"
+   ]
+  }
+ ],
+ "business_blocks": [
+  {
+   "url": "https://polaltipol.co.il/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/birthday/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a1%d7%a8%d7%98%d7%95%d7%a0%d7%99%d7%9d/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a1%d7%a8%d7%98%d7%95%d7%a0%d7%99%d7%9d/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a9%d7%99%d7%a8%d7%99%d7%9d/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%a9%d7%99%d7%a8%d7%99%d7%9d/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%92%d7%9c%d7%a8%d7%99%d7%99%d7%aa-%d7%94%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%90%d7%95%d7%aa/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%92%d7%9c%d7%a8%d7%99%d7%99%d7%aa-%d7%94%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%90%d7%95%d7%aa/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%93%d7%91%d7%a8%d7%95-%d7%90%d7%99%d7%aa%d7%99/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%93%d7%91%d7%a8%d7%95-%d7%90%d7%99%d7%aa%d7%99/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%92%d7%96%d7%99%d7%9f-%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": false,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%92%d7%96%d7%99%d7%9f-%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%9e%d7%a9%d7%97%d7%a7%d7%99%d7%9d-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-7-%d7%a8%d7%a2%d7%99%d7%95%d7%a0%d7%95%d7%aa-%d7%a9%d7%9e%d7%a4%d7%a2%d7%99%d7%9c%d7%99%d7%9d-%d7%90%d7%aa/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+   "types": [
+    "Person",
+    "Organization"
+   ],
+   "name": "polaltipol@gmail.com",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": false,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": false,
+    "priceRange": false,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": null
+  },
+  {
+   "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+   "types": [
+    "EntertainmentBusiness"
+   ],
+   "name": "פול אל תיפול",
+   "fields": {
+    "name": true,
+    "address": false,
+    "telephone": true,
+    "url": true,
+    "openingHoursSpecification": false,
+    "geo": false,
+    "sameAs": true,
+    "areaServed": true,
+    "priceRange": true,
+    "image": true,
+    "openingHours": false
+   },
+   "phone_matches_page": true
+  }
+ ],
+ "broken_blocks": [],
+ "pages_checked": 53,
+ "faq_blocks": [],
+ "notes": [
+  "Google says structured data is not required for its AI answers and there is no special markup for them. It still helps Google read who you are, and it must match what the page shows.",
+  "Google stopped showing FAQ rich results on May 7, 2026. FAQ markup does no harm, but it no longer earns a special result."
+ ]
+}

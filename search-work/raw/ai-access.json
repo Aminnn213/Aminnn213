@@ -1,0 +1,55 @@
+{
+ "robots_txt": {
+  "status": 200,
+  "found": true,
+  "lines": 8
+ },
+ "agents": [
+  {
+   "agent": "Googlebot",
+   "what_it_decides": "Google Search, including AI Overviews and AI Mode. Blocking it keeps you out of all of them.",
+   "group_used": "*",
+   "home_allowed": true,
+   "blocked_sample_pages": []
+  },
+  {
+   "agent": "Google-Extended",
+   "what_it_decides": "Google's other AI products and training. It does not decide whether you show in Google Search or its AI answers.",
+   "group_used": "*",
+   "home_allowed": true,
+   "blocked_sample_pages": []
+  },
+  {
+   "agent": "OAI-SearchBot",
+   "what_it_decides": "ChatGPT search. Blocked sites are not shown in ChatGPT search answers.",
+   "group_used": "*",
+   "home_allowed": true,
+   "blocked_sample_pages": []
+  },
+  {
+   "agent": "GPTBot",
+   "what_it_decides": "OpenAI model training only. Blocking it does not hide you from ChatGPT search.",
+   "group_used": "*",
+   "home_allowed": true,
+   "blocked_sample_pages": []
+  }
+ ],
+ "pages_read": 72,
+ "pages_ok": 53,
+ "noindex_pages": [],
+ "nosnippet_pages": [],
+ "needs_javascript_pages": [],
+ "thin_pages": [
+  "https://polaltipol.co.il/%d7%a1%d7%a8%d7%98%d7%95%d7%a0%d7%99%d7%9d/",
+  "https://polaltipol.co.il/%d7%a9%d7%99%d7%a8%d7%99%d7%9d/",
+  "https://polaltipol.co.il/%d7%92%d7%9c%d7%a8%d7%99%d7%99%d7%aa-%d7%94%d7%94%d7%a8%d7%a4%d7%aa%d7%a7%d7%90%d7%95%d7%aa/"
+ ],
+ "sitemap_found": true,
+ "broken_links": 19,
+ "blocked_for_our_reader": [],
+ "not_visible_here": [
+  "Whether Google has indexed each page (Search Console, Pages report)",
+  "The Search generative AI setting in Search Console (Settings, Search generative AI), which must say Include",
+  "Blocks by a firewall or CDN that only bots see"
+ ]
+}

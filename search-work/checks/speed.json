@@ -1,0 +1,12 @@
+{
+ "check": "speed",
+ "status": "could not check",
+ "summary": "שירות PageSpeed של גוגל סירב לבדוק, כי המכסה היומית בלי מפתח נגמרה. מפתח PageSpeed חינמי פותר את זה.",
+ "findings": [],
+ "could_not_see": [
+  "שירות PageSpeed החזיר שגיאה 429 (נגמרה המכסה בלי מפתח). אפשר להוסיף PAGESPEED_KEY בקובץ המפתחות ולהריץ שוב."
+ ],
+ "sources": [
+  "raw/speed.json"
+ ]
+}

@@ -1,0 +1,242 @@
+{
+ "services": [
+  {
+   "name": "הפעלה ליום הולדת לילדים",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/",
+     "title": "פול אל תיפול – אמן ילדים להפעלות יום הולדת ומופעים",
+     "score": 1.0,
+     "words": 353,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/birthday/",
+     "title": "הפעלה ליום הולדת לילדים | אמן ילדים פול אל תיפול",
+     "score": 1.0,
+     "words": 725,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%91%d7%91%d7%99%d7%aa-%d7%90%d7%95-%d7%91%d7%97%d7%95%d7%a5/",
+     "title": "הפעלה ליום הולדת בבית או בחוץ | פול אל תיפול",
+     "score": 1.0,
+     "words": 484,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "name": "מופעי ילדים",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+     "title": "מופעי ילדים למתנ״סים, קניונים ומלונות | פול אל תיפול",
+     "score": 0.85,
+     "words": 229,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%D7%9E%D7%95%D7%A4%D7%A2%D7%99%D7%9D/",
+     "title": "מופעי ילדים למתנ״סים, קניונים ומלונות | פול אל תיפול",
+     "score": 0.85,
+     "words": 229,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "name": "מופע ילדים לקניון",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+     "title": "מופעי ילדים למתנ״סים, קניונים ומלונות | פול אל תיפול",
+     "score": 1.0,
+     "words": 229,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%a7%d7%a0%d7%99%d7%95%d7%9f/",
+     "title": "מופע ילדים לקניון | פעילות למשפחות עם פול אל תיפול",
+     "score": 1.0,
+     "words": 340,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show/",
+     "title": "מופע חנוכה לילדים 2026 למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 392,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "name": "מופע ילדים למלון",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+     "title": "מופעי ילדים למתנ״סים, קניונים ומלונות | פול אל תיפול",
+     "score": 1.0,
+     "words": 229,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%9e%d7%9c%d7%95%d7%9f/",
+     "title": "מופע ילדים למלון | פעילות משפחתית עם פול אל תיפול",
+     "score": 1.0,
+     "words": 306,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "name": "מופע ילדים למתנ״ס",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show/",
+     "title": "מופע חנוכה לילדים 2026 למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 392,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/purim-show/",
+     "title": "מופע פורים לילדים למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 386,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "name": "מופע חנוכה",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show-community-center/",
+     "title": "מופע חנוכה למתנ״ס: מדריך לבחירה ותכנון | פול אל תיפול",
+     "score": 1.0,
+     "words": 801,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show-for-library/",
+     "title": "מופע חנוכה לילדים בספרייה: מדריך לבחירה | פול אל תיפול",
+     "score": 1.0,
+     "words": 604,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/hanukkah-show/",
+     "title": "מופע חנוכה לילדים 2026 למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 392,
+     "in_heading_or_address": true
+    }
+   ]
+  },
+  {
+   "name": "מופע פורים",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/purim-kids-show-event-planning/",
+     "title": "מופע פורים לילדים: איך משלבים תחפושות, במה וקהל? - polaltipol.co.il",
+     "score": 1.0,
+     "words": 491,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/purim-show/",
+     "title": "מופע פורים לילדים למתנ״סים וקניונים | פול אל תיפול",
+     "score": 1.0,
+     "words": 386,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/category/%d7%9e%d7%95%d7%a4%d7%a2%d7%99-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99%d7%9d/",
+     "title": "ארכיון מופעי ילדים לאירועים - polaltipol.co.il",
+     "score": 1.0,
+     "words": 605,
+     "in_heading_or_address": true
+    }
+   ]
+  }
+ ],
+ "areas": [
+  {
+   "name": "בכל הארץ",
+   "has_own_page": false,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2%d7%99%d7%9d/",
+     "title": "מופעי ילדים למתנ״סים, קניונים ומלונות | פול אל תיפול",
+     "score": 0.3,
+     "words": 229,
+     "in_heading_or_address": false
+    },
+    {
+     "url": "https://polaltipol.co.il/%D7%9E%D7%95%D7%A4%D7%A2%D7%99%D7%9D/",
+     "title": "מופעי ילדים למתנ״סים, קניונים ומלונות | פול אל תיפול",
+     "score": 0.3,
+     "words": 229,
+     "in_heading_or_address": false
+    }
+   ]
+  },
+  {
+   "name": "המרכז",
+   "has_own_page": true,
+   "best": [
+    {
+     "url": "https://polaltipol.co.il/birthday-for-mixed-ages/",
+     "title": "יום הולדת לילדים בגילים שונים: רעיונות לתכנון | פול אל תיפול",
+     "score": 1.0,
+     "words": 804,
+     "in_heading_or_address": true
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%9e%d7%95%d7%a4%d7%a2-%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%9c%d7%90%d7%99%d7%a8%d7%95%d7%a2%d7%99-%d7%a2%d7%99%d7%a8%d7%99%d7%99%d7%94/",
+     "title": "מופע ילדים לאירועי עירייה וקהילה | פול אל תיפול",
+     "score": 0.3,
+     "words": 676,
+     "in_heading_or_address": false
+    },
+    {
+     "url": "https://polaltipol.co.il/%d7%94%d7%a4%d7%a2%d7%9c%d7%94-%d7%9c%d7%99%d7%95%d7%9d-%d7%94%d7%95%d7%9c%d7%93%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d-%d7%91%d7%99%d7%99%d7%a9%d7%a0%d7%99%d7%9d/",
+     "title": "הפעלה ליום הולדת לילדים ביישנים | פול אל תיפול",
+     "score": 0.3,
+     "words": 683,
+     "in_heading_or_address": false
+    }
+   ]
+  }
+ ]
+}
